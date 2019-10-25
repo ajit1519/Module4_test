@@ -12,6 +12,8 @@ namespace AzureGit
         {
             Console.WriteLine("First line in visual studio");
             Console.WriteLine("First change made in visual studio");
+            Console.WriteLine("Making changes in GitHub");
+            
         }
     }
 }
